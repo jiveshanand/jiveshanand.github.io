@@ -93,6 +93,8 @@ body, html{
 }
 .btn_inner_1, .btn_inner_12{
 	border:1px solid white;
+	width:30%;
+	text-align: center;
 	/*margin:10px;*/
 }
 
