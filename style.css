@@ -1,5 +1,5 @@
 .btn_innermost, .btn_inner {
-	/*border:1px solid white;*/
+	border:1px solid white;
 	margin: 2.5px;
 	display: flex;
 	height:100px;
@@ -38,7 +38,7 @@
 .btn_outermost{
 	display: flex;
 	justify-content: center;
-	/*border:1px solid white;*/
+	border:1px solid white;
 	margin:10px;
 	padding: 10px;
 }
@@ -48,7 +48,7 @@
 	/*justify-content: center;
 	align-items: center;*/
 	width:100%;
-	/*border:1px solid white;*/
+	border:1px solid white;
 	/*position: relative;
 	top: 195px;*/
 }
@@ -92,7 +92,8 @@ body, html{
 	/*transform: scale(1.15);*/
 }
 .btn_inner_1, .btn_inner_12{
-	/*border:1px solid white;*/
+	border:1px solid white;
+	/*margin:10px;*/
 }
 
 .btn_inner_12{
